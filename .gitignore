@@ -1,2 +1,3 @@
 /.venv/
 /embedding_cache/
+.env
